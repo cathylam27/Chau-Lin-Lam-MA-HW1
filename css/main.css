@@ -2,7 +2,7 @@
     display: none;
 }
 p {
-    color: rgb(149, 106, 161);
+    color: rgb(87, 57, 95);
     width: 720px;
     border: 1px solid rgba(0, 0, 0, 0);
     margin:0 auto
@@ -11,13 +11,13 @@ p {
   h1 {
     font-size: 60px;
     text-align: center;
-    color: rgb(170, 44, 122);
+    color: rgb(114, 21, 138);
   }
   body {
     width: 800px;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
-    border: 2px solid rgb(180, 92, 176);
+    border: 2px solid rgb(109, 44, 146);
     background-repeat:no-repeat;
     background-attachment:fixed;
     background-size: cover;
